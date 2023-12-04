@@ -1,0 +1,20 @@
+{
+    "name": "adventofcodetemplate",
+    "version": "1.0.0",
+    "description": "advent of code template",
+    "main": "adventOfCode.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NathanPepperoni/adventOfCodeJsTemplate.git"
+    },
+    "author": "Nathan Pettorini",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NathanPepperoni/adventOfCodeJsTemplate/issues"
+    },
+    "homepage": "https://github.com/NathanPepperoni/adventOfCodeJsTemplate#readme"
+}
