@@ -10,7 +10,7 @@ function getDestinationFromSource(source, mapData) {
 
     if (mapSource <= source && source < mapSource + mapRange) {
       const diff = source - mapSource;
-      return (mapDest + diff).toString();
+      return mapDest + diff;
     }
   }
   return source;
