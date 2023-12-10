@@ -74,7 +74,7 @@ const solveStar = (starNumber) => {
 
   if (result) {
     console.log(
-      `star ${starNumber} result: ${result} after ${hourString}${minuteString}${secondString}${msString} (ms: ${elapsedTime})`
+      `star ${starNumber} result: ${result} after ${hourString}${minuteString}${secondString}${msString}`
     );
   }
 };
